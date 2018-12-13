@@ -1,4 +1,4 @@
-Run the Game through file "Pong"
+Run the Game through file "pong.pde"
 1. Its pretty crap but lulz, it works... I guess? *eek*
 2. Its built to make your fail, so you're not competing against anyone but yourself.
 
