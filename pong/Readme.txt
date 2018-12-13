@@ -1,6 +1,6 @@
 Run the Game through file "pong.pde"
 1. Its pretty crap but lulz, it works... I guess? *eek*
-2. Its built to make your fail, so you're not competing against anyone but yourself.
+2. Its built to make you fail, so you're not competing against anyone but yourself.
 3. Oh and, UP is up, DOWN is down... duh
 
 // Dev To-dos aka a fancy way of saying fix this pathetic excuse of a game.
