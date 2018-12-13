@@ -1,8 +1,8 @@
 Run the Game through file "Pong"
-Its pretty crap but lulz, it works
-Its built to make your fail, so you're not competing against anyone but yourself.
+1. Its pretty crap but lulz, it works... I guess? *eek*
+2. Its built to make your fail, so you're not competing against anyone but yourself.
 
-// Dev Doc
-Um, make it better, I guess?
-When you press down without releasing up, the controls invert
-when you keep pressing down or up, it keeps going there the just appears back, idk how to fix this but i bet I can.
+// Dev To-dos aka a fancy way of saying fix this pathetic excuse of a game.
+
+1. Um, make it better.. somehow, I guess?
+2. When you press down without releasing up, the controls invert... BEST GAME 2018!
